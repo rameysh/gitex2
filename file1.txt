@@ -1,2 +1,6 @@
 first file
+<<<<<<< HEAD
 in hotfix
+=======
+in future
+>>>>>>> future2
